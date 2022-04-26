@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "@tonaljs/tonal": "^4.6.5",
+    "howler": "^2.2.3"
+  }
+}
